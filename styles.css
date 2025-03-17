@@ -201,6 +201,10 @@ main {
 }
 
 footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    left: 0;
     text-align: center;
     padding: 2rem;
     margin-top: 3rem;
