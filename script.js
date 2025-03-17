@@ -2,27 +2,9 @@ document.addEventListener('DOMContentLoaded', function() {
     // Project data - replace with your actual projects
     const projectsData = [
         {
-            "day": 4,
-            "title": "AI-Powered Image Editor",
-            "description": "A revolutionary tool that uses AI to enhance and transform your photos magically.",
-            "url": "https://aiphotoshop.in/"
-        },
-        {
-            "day": 3,
-            "title": "Smart Photo Organizer",
-            "description": "An intelligent system that automatically sorts and categorizes your photo library.",
-            "url": "https://aiphotoshop.in/"
-        },
-        {
-            "day": 2,
-            "title": "PDF Document Scanner",
-            "description": "Turn your phone into a powerful document scanner with OCR capabilities.",
-            "url": "https://aiphotoshop.in/"
-        },
-        {
             "day": 1,
-            "title": "Voice Notes Transcriber",
-            "description": "Automatically transcribe your voice notes into searchable text documents.",
+            "title": "AI-Powered Image Editor",
+            "description": "AI first image editor, edit images with AI.",
             "url": "https://aiphotoshop.in/"
         }
     ];
