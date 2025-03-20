@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const projectsData = [
         {
             "day": 3,
-            "title": "NeuraTeach 2077 store",
+            "title": "NeuraTech 2077 store",
             "description": "Next-Gen AI Companions, Experience the pinnacle of synthetic intelligence",
             "url": "https://neuratech2077store-production.up.railway.app/"
         },
