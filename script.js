@@ -2,6 +2,18 @@ document.addEventListener('DOMContentLoaded', function() {
     // Project data - replace with your actual projects
     const projectsData = [
         {
+            "day": 3,
+            "title": "NeuraTeach 2077 store",
+            "description": "Next-Gen AI Companions, Experience the pinnacle of synthetic intelligence",
+            "url": "https://neuratech2077store-production.up.railway.app/"
+        },
+        {
+            "day": 2,
+            "title": "AI-Powered Doodle Canvas",
+            "description": "AI powered doodle canvas, draw with AI.",
+            "url": "https://aidoodle.fun/"
+        },
+        {
             "day": 1,
             "title": "AI-Powered Image Editor",
             "description": "AI first image editor, edit images with AI.",
