@@ -2,6 +2,18 @@ document.addEventListener('DOMContentLoaded', function() {
     // Project data - replace with your actual projects
     const projectsData = [
         {
+            "day": 5,
+            "title": "Windows XP - The Largest Hackthon",
+            "description": "Wiindows XP themed announcement of the Largest Hackathon in the world",
+            "url": "https://bolthackathon-windowsxp-production.up.railway.app/"
+        },
+        {
+            "day": 4,
+            "title": "The Largest Hackthon",
+            "description": "The Largest Hackathon in the world",
+            "url": "https://bolthackathon-production.up.railway.app/"
+        },
+        {
             "day": 3,
             "title": "NeuraTech 2077 store",
             "description": "Next-Gen AI Companions, Experience the pinnacle of synthetic intelligence",
