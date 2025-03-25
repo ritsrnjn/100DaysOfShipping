@@ -2,6 +2,24 @@ document.addEventListener('DOMContentLoaded', function() {
     // Project data - replace with your actual projects
     const projectsData = [
         {
+            "day": 8,
+            "title": "Cosmic Visualisations",
+            "description": "Directory of cosmic visualisations using THREE.js",
+            "url": "https://cosmic-visualisations-production.up.railway.app/"
+        },
+        {
+            "day": 7,
+            "title": "Life Calendar Extension",
+            "description": "Life Calendar Extension for Chrome to lock in! - not deployed yet on chrome web store",
+            "url": "https://bolthackathon-windowsxp-production.up.railway.app/"
+        },
+        {
+            "day": 6,
+            "title": "AI logo generator",
+            "description": "Generate logos with AI, built with Next.js and sonnet 3.7",
+            "url": "https://ai-logo-generator-production.up.railway.app/"
+        },
+        {
             "day": 5,
             "title": "Windows XP - The Largest Hackthon",
             "description": "Wiindows XP themed announcement of the Largest Hackathon in the world",
