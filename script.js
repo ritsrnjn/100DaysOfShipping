@@ -2,6 +2,12 @@ document.addEventListener('DOMContentLoaded', function() {
     // Project data - replace with your actual projects
     const projectsData = [
         {
+            "day": 9,
+            "title": "Solar System Distance",
+            "description": "Solar System Distance visualisations using THREE.js",
+            "url": "https://solar-distance-production.up.railway.app/"
+        },
+        {
             "day": 8,
             "title": "Cosmic Visualisations",
             "description": "Directory of cosmic visualisations using THREE.js",
