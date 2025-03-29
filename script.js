@@ -2,6 +2,36 @@ document.addEventListener('DOMContentLoaded', function() {
     // Project data - replace with your actual projects
     const projectsData = [
         {
+            "day": 14,
+            "title": "Lissajous Simulator",
+            "description": "Control the Lissajous curve with sliders",
+            "url": "https://lissajous-production.up.railway.app/"
+        },
+        {
+            "day": 13,
+            "title": "Spirograph Visualisations",
+            "description": "Random Spirograph visualisations",
+            "url": "https://spirograph-production.up.railway.app/"
+        },
+        {
+            "day": 12,
+            "title": "Spirograph Visualisations",
+            "description": "Randome Spirograph visualisations",
+            "url": "https://spirograph-production.up.railway.app/"
+        },
+        {
+            "day": 11,
+            "title": "theproductframe.ai",
+            "description": "An automated Instagram page, for generating product shots, part of project synt-social",
+            "url": "https://www.instagram.com/theproductframe.ai/"
+        },
+        {
+            "day": 10,
+            "title": "Hustle With Nysa",
+            "description": "An automated Instagram page, part of project synt-social",
+            "url": "https://www.instagram.com/hustle.with.nysa/"
+        },
+        {
             "day": 9,
             "title": "Solar System Distance",
             "description": "Solar System Distance visualisations using THREE.js",
