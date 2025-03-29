@@ -2,16 +2,10 @@ document.addEventListener('DOMContentLoaded', function() {
     // Project data - replace with your actual projects
     const projectsData = [
         {
-            "day": 14,
+            "day": 13,
             "title": "Lissajous Simulator",
             "description": "Control the Lissajous curve with sliders",
             "url": "https://lissajous-production.up.railway.app/"
-        },
-        {
-            "day": 13,
-            "title": "Spirograph Visualisations",
-            "description": "Random Spirograph visualisations",
-            "url": "https://spirograph-production.up.railway.app/"
         },
         {
             "day": 12,
