@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', function() {
             "url": "https://gridslicer-production.up.railway.app/"
         },
         {
-            "day": 13,
+            "day": 14,
             "title": "Personality Finder",
             "description": "Quiz based personality finder",
             "url": "https://lissajous-production.up.railway.app/"
