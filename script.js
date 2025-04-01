@@ -2,6 +2,18 @@ document.addEventListener('DOMContentLoaded', function() {
     // Project data - replace with your actual projects
     const projectsData = [
         {
+            "day": 15,
+            "title": "Grid Slicer",
+            "description": "Crop your images into a grid",
+            "url": "https://gridslicer-production.up.railway.app/"
+        },
+        {
+            "day": 13,
+            "title": "Personality Finder",
+            "description": "Quiz based personality finder",
+            "url": "https://lissajous-production.up.railway.app/"
+        },
+        {
             "day": 13,
             "title": "Lissajous Simulator",
             "description": "Control the Lissajous curve with sliders",
