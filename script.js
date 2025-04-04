@@ -2,6 +2,18 @@ document.addEventListener('DOMContentLoaded', function() {
     // Project data - replace with your actual projects
     const projectsData = [
         {
+            "day": 17,
+            "title": "Ambien Noise 2.0",
+            "description": "Create and Mix your own ambient noise",
+            "url": "https://ambient-noise-production.up.railway.app/"
+        },
+        {
+            "day": 16,
+            "title": "Cosmic Clicker",
+            "description": "Game inspired by Cookie Clicker",
+            "url": "https://gridslicer-production.up.railway.app/"
+        },
+        {
             "day": 15,
             "title": "Grid Slicer",
             "description": "Crop your images into a grid",
