@@ -2,16 +2,24 @@ document.addEventListener('DOMContentLoaded', function() {
     // Project data - replace with your actual projects
     const projectsData = [
         {
-            "day": 17,
+            "day": 18,
             "title": "Ambien Noise 2.0",
             "description": "Create and Mix your own ambient noise",
             "url": "https://ambient-noise-production.up.railway.app/"
         },
         {
-            "day": 16,
+            "day": 17,
             "title": "Cosmic Clicker",
             "description": "Game inspired by Cookie Clicker",
             "url": "https://gridslicer-production.up.railway.app/"
+            // TODO: Add the url
+        },
+        {
+            "day": 16,
+            "title": "Gravity Comparison Simulation",
+            "description": "physics simulation showing how objects drop at different speeds due to varying gravitational forces on the Moon, Mars, Earth, and Sun",
+            "url": "https://gridslicer-production.up.railway.app/"
+            // TODO: Add the url
         },
         {
             "day": 15,
