@@ -1,6 +1,12 @@
 document.addEventListener('DOMContentLoaded', function() {
     // Project data - replace with your actual projects
     const projectsData = [
+        // {
+        //     "day": 19,
+        //     "title": "Rubik cube simulator",
+        //     "description": "Create and Mix your own ambient noise",
+        //     "url": "https://ambient-noise-production.up.railway.app/"
+        // },
         {
             "day": 18,
             "title": "Ambien Noise 2.0",
